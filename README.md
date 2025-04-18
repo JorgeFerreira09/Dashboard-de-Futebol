@@ -1,4 +1,4 @@
-## Dashboard Campeonato Brasileiro ##
+## Análise de Desempenho de Futebol ##
 
 <br/>
 :high_brightness: Sejam todos bem-vindos! :high_brightness:<br/><br/>
